@@ -26,3 +26,5 @@ ___
 - https://ai.meta.com/blog/ai-powered-audio-compression-technique/
 - https://arxiv.org/abs/2210.13438
 - https://github.com/facebookresearch/encodec#extracting-discrete-representations 
+- https://paperswithcode.com/paper/speaker-anonymization-using-neural-audio
+- https://huggingface.co/suno/bark/tree/main/speaker_embeddings/v2
