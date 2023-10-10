@@ -1,6 +1,6 @@
-# Exploring Text-to-Audio with Bark (WIP)
+# Exploring Text-to-Audio with Bark
 
-Link to TowardsDataScience article: *Coming Soon*
+Link to article: https://betterprogramming.pub/text-to-audio-generation-with-bark-clearly-explained-4ee300a3713a
 
 ## Context
 - Amidst the transformative surge of generative AI, text-to-audio models are emerging as one of the most promising frontiers. 
